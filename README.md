@@ -1,7 +1,7 @@
 # tsundoker.github.io
 Reading Challenge to read books from all states of India
 
-<!DOCTYPE html>
+<<! <!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
@@ -62,7 +62,7 @@ li span{color:var(--mute)}
 <ul id="list"></ul>
 <h3>Leaderboard</h3>
 <p class="note">Everyone taking part can see each other’s names, counts and books. Tap a name to see their books.</p>
-<div id="board"><p class="note">Sign in to claude.ai to see the leaderboard.</p></div>
+
 <p class="note" id="note">Small states and territories are shown as circles on the map. Map boundaries are simplified.</p>
 </main>
 <script>
